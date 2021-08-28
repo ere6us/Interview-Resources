@@ -321,7 +321,7 @@
 ## Dynamic Programming
 [Geeksforgeeks IMP](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
 
-+ [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
++ [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 + [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 + [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 + [ ] [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
